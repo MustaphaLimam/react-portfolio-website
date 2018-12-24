@@ -34,8 +34,8 @@ Enjoy! :)
 
 Built With
 
-React
-Sass
-CSS
+    React
+    Sass
+    CSS
 
 
